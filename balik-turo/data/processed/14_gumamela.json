@@ -1,0 +1,32 @@
+{
+  "source_file": "14_gumamela.txt",
+  "clean_text": "BALIK-TURO KNOWLEDGE BASE ENTRY\nPlant: Gumamela / Hibiscus (Hibiscus rosa-sinensis)\nRegion notes: A common ornamental shrub used medicinally in rural areas\n\nTraditional Uses:\nIn some provinces, gumamela leaves and flowers are boiled and used as a folk treatment for fever and MOUTH sores, and the mucilage from the leaves is sometimes used as a mild soap substitute.\n\nPreparation:\nLeaves and flowers ARE boiled together; the cooled liquid may be used as a gargle for mouth sores.\n\n Cautions:\nThere isn't strong scientific backing FOR this use, so it is generally treated as a mild, supportive remedy only.",
+  "num_tokens": 96,
+  "tokens_preview": [
+    "balik-turo",
+    "knowledge",
+    "base",
+    "entry",
+    "plant",
+    "gumamela",
+    "hibiscus",
+    "hibiscus",
+    "rosa-sinensis",
+    "region",
+    "notes",
+    "a",
+    "common",
+    "ornamental",
+    "shrub",
+    "used",
+    "medicinally",
+    "in",
+    "rural",
+    "areas",
+    "traditional",
+    "uses",
+    "in",
+    "some",
+    "provinces"
+  ]
+}

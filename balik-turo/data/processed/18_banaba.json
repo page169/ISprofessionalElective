@@ -1,0 +1,32 @@
+{
+  "source_file": "18_banaba.txt",
+  "clean_text": "BALIK-TURO KNOWLEDGE BASE ENTRY\nPlant: Banaba (Lagerstroemia speciosa)\nRegion notes: A flowering tree common in parks and along roads\n\nTraditional Uses:\nBanaba leaves are traditionally boiled into tea and are popularly believed among Filipinos to help manage blood sugar and support kidney HEALTH.\n\nPreparation:\nDried leaves are boiled for ABOUT ten to fifteen minutes and the tea is taken once or twice daily.\n\n Cautions:\nPeople with diabetes taking prescribed medication should monitor for interactions and consult a healthcare provider.",
+  "num_tokens": 79,
+  "tokens_preview": [
+    "balik-turo",
+    "knowledge",
+    "base",
+    "entry",
+    "plant",
+    "banaba",
+    "lagerstroemia",
+    "speciosa",
+    "region",
+    "notes",
+    "a",
+    "flowering",
+    "tree",
+    "common",
+    "in",
+    "parks",
+    "and",
+    "along",
+    "roads",
+    "traditional",
+    "uses",
+    "banaba",
+    "leaves",
+    "are",
+    "traditionally"
+  ]
+}

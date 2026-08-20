@@ -1,0 +1,32 @@
+{
+  "source_file": "25_oregano.txt",
+  "clean_text": "BALIK-TURO KNOWLEDGE BASE ENTRY\nPlant: Oregano / Suganda (Plectranthus amboinicus)\nRegion notes: A fragrant herb common in Filipino gardens\n\nTraditional Uses:\nPhilippine oregano, distinct from the Mediterranean herb of the same name, is A well-known home remedy for cough and asthma, often given to children as a syrup or tea.\n\nPreparation:\nLeaves are pounded to extract the juice, which is sometimes mixed with a little SUGAR or honey before being given to children.\n\n Cautions:\nAs with other pediatric home REMEDIES, persistent breathing difficulty in a child should prompt an immediate visit to a doctor.",
+  "num_tokens": 93,
+  "tokens_preview": [
+    "balik-turo",
+    "knowledge",
+    "base",
+    "entry",
+    "plant",
+    "oregano",
+    "suganda",
+    "plectranthus",
+    "amboinicus",
+    "region",
+    "notes",
+    "a",
+    "fragrant",
+    "herb",
+    "common",
+    "in",
+    "filipino",
+    "gardens",
+    "traditional",
+    "uses",
+    "philippine",
+    "oregano",
+    "distinct",
+    "from",
+    "the"
+  ]
+}

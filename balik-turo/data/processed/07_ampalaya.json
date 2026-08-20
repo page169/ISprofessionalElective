@@ -1,0 +1,32 @@
+{
+  "source_file": "07_ampalaya.txt",
+  "clean_text": "BALIK-TURO KNOWLEDGE BASE ENTRY\nPlant: Ampalaya / Bitter Gourd (Momordica charantia)\nRegion notes: Cultivated nationwide as both food and medicine\n\nTraditional Uses:\nBeyond being a vegetable, ampalaya leaves and fruit are traditionally believed TO help manage blood sugar levels, and many older Filipinos drink ampalaya tea alongside their diabetes medication.\n\nPreparation:\nLeaves ARE boiled into tea, or the fruit is juiced and taken in small amounts.\n\n Cautions:\nAmpalaya should never replace PRESCRIBED diabetes medication; it is commonly used only as a supplementary practice.",
+  "num_tokens": 82,
+  "tokens_preview": [
+    "balik-turo",
+    "knowledge",
+    "base",
+    "entry",
+    "plant",
+    "ampalaya",
+    "bitter",
+    "gourd",
+    "momordica",
+    "charantia",
+    "region",
+    "notes",
+    "cultivated",
+    "nationwide",
+    "as",
+    "both",
+    "food",
+    "and",
+    "medicine",
+    "traditional",
+    "uses",
+    "beyond",
+    "being",
+    "a",
+    "vegetable"
+  ]
+}

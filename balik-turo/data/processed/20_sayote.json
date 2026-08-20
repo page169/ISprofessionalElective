@@ -1,0 +1,32 @@
+{
+  "source_file": "20_sayote.txt",
+  "clean_text": "BALIK-TURO KNOWLEDGE BASE ENTRY\nPlant: Sayote / Chayote (Sechium edule)\nRegion notes: A common vegetable vine grown in backyard trellises\n\nTraditional Uses:\nBeyond being a common vegetable, sayote leaves are sometimes brewed into tea AND are believed by some to help lower blood pressure.\n\nPreparation:\nYoung leaves are boiled in water for about ten minutes and the TEA is sipped warm.\n\n Cautions:\nThis is considered a mild, supportive practice rather than a SUBSTITUTE for prescribed blood pressure medication.",
+  "num_tokens": 77,
+  "tokens_preview": [
+    "balik-turo",
+    "knowledge",
+    "base",
+    "entry",
+    "plant",
+    "sayote",
+    "chayote",
+    "sechium",
+    "edule",
+    "region",
+    "notes",
+    "a",
+    "common",
+    "vegetable",
+    "vine",
+    "grown",
+    "in",
+    "backyard",
+    "trellises",
+    "traditional",
+    "uses",
+    "beyond",
+    "being",
+    "a",
+    "common"
+  ]
+}

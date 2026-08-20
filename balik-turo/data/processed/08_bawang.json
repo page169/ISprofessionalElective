@@ -1,0 +1,32 @@
+{
+  "source_file": "08_bawang.txt",
+  "clean_text": "BALIK-TURO KNOWLEDGE BASE ENTRY\nPlant: Bawang / Garlic (Allium sativum)\nRegion notes: A kitchen staple used medicinally across the country\n\nTraditional Uses:\nGarlic is one of the oldest Filipino home remedies, used both as food and as a folk treatment believed to help lower cholesterol and blood pressure.\n\nPreparation:\nRaw garlic cloves are sometimes eaten on an empty stomach, or garlic is steeped to MAKE a mild tea.\n\n Cautions:\nPeople on blood-thinning MEDICATION are usually cautioned about eating large amounts of raw garlic.",
+  "num_tokens": 82,
+  "tokens_preview": [
+    "balik-turo",
+    "knowledge",
+    "base",
+    "entry",
+    "plant",
+    "bawang",
+    "garlic",
+    "allium",
+    "sativum",
+    "region",
+    "notes",
+    "a",
+    "kitchen",
+    "staple",
+    "used",
+    "medicinally",
+    "across",
+    "the",
+    "country",
+    "traditional",
+    "uses",
+    "garlic",
+    "is",
+    "one",
+    "of"
+  ]
+}

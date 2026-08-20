@@ -1,0 +1,32 @@
+{
+  "source_file": "19_sabila.txt",
+  "clean_text": "BALIK-TURO KNOWLEDGE BASE ENTRY\nPlant: Sabila / Aloe Vera (Aloe barbadensis)\nRegion notes: Grown in pots and gardens across the country\n\nTraditional Uses:\nThe gel from aloe vera leaves is a classic REMEDY for minor burns, scrapes, and dry skin, and some also drink diluted aloe juice for digestive complaints.\n\nPreparation:\nThe leaf is cut open and the clear gel applied directly to THE skin.\n\n Cautions:\nThe yellow latex layer just under the skin of the leaf can be irritating and should be rinsed off BEFORE applying the gel.",
+  "num_tokens": 88,
+  "tokens_preview": [
+    "balik-turo",
+    "knowledge",
+    "base",
+    "entry",
+    "plant",
+    "sabila",
+    "aloe",
+    "vera",
+    "aloe",
+    "barbadensis",
+    "region",
+    "notes",
+    "grown",
+    "in",
+    "pots",
+    "and",
+    "gardens",
+    "across",
+    "the",
+    "country",
+    "traditional",
+    "uses",
+    "the",
+    "gel",
+    "from"
+  ]
+}
